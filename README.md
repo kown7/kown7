@@ -8,4 +8,4 @@
 - 👀 I’m interested in FPGA/Python/SystemsEngineering
 --->
 
-Set up your gitlab pages to allow for comments https://cactus.chat/docs/integrations/jekyll/
+Set up your gitlab/github pages to allow for comments https://cactus.chat/docs/integrations/jekyll/
